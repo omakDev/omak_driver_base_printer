@@ -248,9 +248,5 @@ PosPrinter.print(data, options)
 | tableFooterStyle | (string) set custom style to the table footer |
 
 ## Author
- - Hubert Formin
- - hformin@gmail.com
- - Twitter: @hformin
- 
- ## Credits
- This package was inspired by [electron-thermal-printer](https://https://www.npmjs.com/package/electron-thermal-printer)
+ -Dev OMAK
+-dev.o@omak.co
